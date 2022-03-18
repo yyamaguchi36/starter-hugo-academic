@@ -14,7 +14,7 @@ organizations:
   url: https://www.tse-fr.eu
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interest is in economic theory.
+bio: PhD student at Toulouse School of Economics
 
 # Interests to show in About widget
 interests:
