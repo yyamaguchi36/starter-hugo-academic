@@ -17,7 +17,7 @@ organizations:
 bio: My research interest is in economic theory.
 
 # Interests to show in About widget
-Research interest:
+Interest:
 - Economic Theory
 
 # Education to show in About widget
@@ -25,7 +25,7 @@ education:
   courses:
   - course: PhD Student
     institution: Toulouse School of Economics
-    year: 2020--Present
+    year: 2020 to Present
   - course: Master in Economics
     institution: Hitotsubashi University
     year: 2017
@@ -57,9 +57,9 @@ education:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/cv.pdf
+- icon: cv
+  icon_pack: academicons
+  link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
