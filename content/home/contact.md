@@ -30,10 +30,10 @@ content:
   address:
     street: 1, Esplanade de l'Université
     city: 31080 Toulouse Cedex 06
-    country: FRANCE
-    # region: CA
-    # postcode: '94305'
-    # country_code: US
+    region: CA
+    postcode: '94305'
+    country: United States
+    country_code: US
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
