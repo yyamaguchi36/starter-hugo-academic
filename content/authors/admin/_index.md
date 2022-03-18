@@ -25,7 +25,7 @@ education:
   courses:
   - course: PhD Student
     institution: Toulouse School of Economics
-    year: 2020 to Present
+    year: 2020–Present
   - course: Master in Economics
     institution: Hitotsubashi University
     year: 2017
