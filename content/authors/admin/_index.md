@@ -14,7 +14,7 @@ organizations:
   url: https://www.tse-fr.eu
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research interest: Economic Theory
+bio: My research interest is in economic theory.
 
 # Interests to show in About widget
 Research interest:
