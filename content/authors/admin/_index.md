@@ -17,8 +17,10 @@ organizations:
 bio: My research interest is in economic theory.
 
 # Interests to show in About widget
-Interest:
-- Economic Theory
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 # Education to show in About widget
 education:
