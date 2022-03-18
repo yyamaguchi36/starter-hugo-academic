@@ -29,11 +29,11 @@ content:
   # phone: 888 888 88 88
   address:
     street: 1, Esplanade de l'Université
-    city: 31080 Toulouse Cedex 06
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    city: 31080 Toulouse Cedex 06, FRANCE
+    # region: CA
+    # postcode: '94305'
+    country: France
+    country_code: FR
   # coordinates:
   #   latitude: '37.4275'
   #   longitude: '-122.1697'
