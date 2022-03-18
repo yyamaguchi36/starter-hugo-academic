@@ -18,9 +18,7 @@ bio: My research interest is in economic theory.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Economic Theory
 
 # Education to show in About widget
 education:
