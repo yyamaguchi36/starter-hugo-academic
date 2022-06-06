@@ -68,6 +68,6 @@ email: ""
 highlight_name: true
 ---
 
-Yusuke Yamaguchi is a PhD student at Toulouse School of Economics. His research interest is in economic theory.
+Yusuke Yamaguchi is a PhD student at Toulouse School of Economics. His research interest is in economic theory and game theory.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
